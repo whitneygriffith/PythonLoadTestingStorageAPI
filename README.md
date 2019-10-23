@@ -12,7 +12,7 @@ Update [tests.py](./tests.py):
 
 
 ## Create Virtualenv for python packages 
-```virtualvenv venv```
+```virtualenv venv```
 
 ```source venv/bin/activate```
 
